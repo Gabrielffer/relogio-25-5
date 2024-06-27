@@ -1,4 +1,4 @@
-# Código fonte do projeto Relógio 25 + 5 do [Free Code Camp](https://www.freecodecamp.org/)
+# Projeto Relógio 25 + 5 do [Free Code Camp](https://www.freecodecamp.org/)
 
 Criar um Relógio 25 + 5
 
